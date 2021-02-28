@@ -5,6 +5,9 @@ This is a board based on the [Maple Mini](https://github.com/leaflabs/maplemini)
 <br>[PCBWay](https://www.pcbway.com/) (Better looking PCBs)
 <br>[JLCPCB](https://jlcpcb.com/) (Easier SMT Service)
 <br>
+<br>USB C Used:
+<br>[Digi-Key](https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733)
+<br>
 <br>ADXL345 Module:
 <br>[AliExpress](https://s.click.aliexpress.com/e/_APsfkw)
 <br>[Amazon](https://amzn.to/3k1iGy9)
