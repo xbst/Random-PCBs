@@ -3,7 +3,7 @@ This is a board based on the [Maple Mini](https://github.com/leaflabs/maplemini)
 <br>You can find more information [here](https://www.youtube.com/watch?v=tDQd-jGegX0).
 <br>The PCB spacer is untested, but it should work. You will also need longer M2 screws! I used 20mm.
 <br>Recommended PCB manufacturers:
-<br>[PCBWay](https://www.pcbway.com/) (Better looking PCBs)
+<br>[PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) (Better looking PCBs)
 <br>[JLCPCB](https://jlcpcb.com/) (Easier SMT Service)
 <br>
 <br>USB C Used:
