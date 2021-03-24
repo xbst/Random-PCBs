@@ -9,7 +9,7 @@ These boards are for adapting various MAX31865 boards to a stepstick format. You
 <br>[Written](https://docs.vorondesign.com/community/electronics/xbst_/PT100.html)
 <br>
 <br>Recommended PCB manufacturers:
-<br>[PCBWay](https://www.pcbway.com/) (Better looking PCBs)
+<br>[PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) (Better looking PCBs)
 <br>[JLCPCB](https://jlcpcb.com/)
 <br>
 <br>Affiliate links above
