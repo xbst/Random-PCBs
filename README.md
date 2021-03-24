@@ -7,7 +7,7 @@
 - [V0 Breakout PCB](./V0_Breakout_Board): A breakout PCB for Voron v0's toolhead.
 - [V2 Breakout PCBs](./Voron_Boards_Rev2_Gerbers): A set of breakout PCB for Voron v2.4. [Rev. 1](./Voron_Boards_Rev1_Gerbers) files also exist but I recommend rev. 2.
 <br>
-##YouTube
+## YouTube
 I am a YouTube content creator, and these projects are a part of my content. If you want content about these projcets & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
 <br>
 ## License & Selling Your Own
