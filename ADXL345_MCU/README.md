@@ -1,6 +1,7 @@
 # ADXL345 MCU
 This is a board based on the [Maple Mini](https://github.com/leaflabs/maplemini), meant to make using an [ADXL345 module](https://s.click.aliexpress.com/e/_APsfkw) for [Klipper](https://github.com/KevinOConnor/klipper) [Input Shaping](https://github.com/KevinOConnor/klipper/blob/master/docs/Measuring_Resonances.md) much easier, by only requiring a USB connection.
 <br>You can find more information [here](https://www.youtube.com/watch?v=tDQd-jGegX0).
+<br>
 <br>Recommended PCB manufacturers:
 <br>[PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) (Better looking PCBs)
 <br>[JLCPCB](https://jlcpcb.com/) (Easier SMT Service)
