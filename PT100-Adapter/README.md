@@ -1,4 +1,4 @@
-These boards are for adapting various MAX31865 boards to a stepstick format. You can use them with any MCU that supports SPI steppers and has an empty step stick slot.
+These boards are for adapting various MAX31865 boards to a stepstick format. You can use them with any board that supports SPI steppers and has an empty step stick slot.
 <br>
 <br>Modules Supported:
 <br>[China](https://s.click.aliexpress.com/e/_d8RU9jb)
