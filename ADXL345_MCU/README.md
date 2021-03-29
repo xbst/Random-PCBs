@@ -1,5 +1,5 @@
 # ADXL345 MCU
-This is a board using a STM32F103 MCU, desgned to make using an [ADXL345 module](https://s.click.aliexpress.com/e/_APsfkw) for [Klipper](https://github.com/KevinOConnor/klipper)'s [Input Shaping](https://github.com/KevinOConnor/klipper/blob/master/docs/Measuring_Resonances.md) much easier, by only requiring a USB connection.
+This is a board using a STM32F103 MCU, designed to make using an [ADXL345 module](https://s.click.aliexpress.com/e/_APsfkw) for [Klipper](https://github.com/KevinOConnor/klipper)'s [Input Shaping](https://github.com/KevinOConnor/klipper/blob/master/docs/Measuring_Resonances.md) much easier, by only requiring a USB connection.
 <br>You can find more information [here](https://www.youtube.com/watch?v=tDQd-jGegX0).
 <br>
 <br>Recommended PCB manufacturers:
