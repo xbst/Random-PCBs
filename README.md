@@ -8,7 +8,7 @@
 - [V2 Breakout PCBs](./Voron_Boards_Rev2_Gerbers): A set of breakout PCB for Voron v2.4. [Rev. 1](./Voron_Boards_Rev1_Gerbers) files also exist but I recommend rev. 2.
 
 ## YouTube
-I am a YouTube content creator, and these projects were designed as a poart of my videos. If you want content about these projects & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
+I am a YouTube content creator, and these projects were designed for my videos. If you want content about these projects & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
 <br>
 ## License & Selling Your Own
 These projects are licensed with [GPL v3](./LICENSE). This means you are free to make your own, modify, sell, including commercially, and do pretty much whatever you want with the designs. You have to credit the project, and you cannot claim that I endorse that sale. There are a few more details with the license too (like warranty, modifications, etc.), so check the [license](./LICENSE) file for more details. This was my summary of the license, and the actual license file contains the correct information!
