@@ -9,6 +9,7 @@
 - [Tiny-M Doom PCB](./Tiny-M_Doom_PCB): [Tiny-M Doom](https://github.com/xbst/Tiny-M-Doom) PCB with 5V & 12V buck converters and GPIO breakout.
 - [V2 Breakout PCBs](./Voron_Boards_Rev2_Gerbers): A set of breakout PCB for Voron v2.4. [Rev. 1](./Voron_Boards_Rev1_Gerbers) files also exist but I recommend rev. 2.
 - [V2.4 New New PCBs](./New_New_V2_PCBs): New PCBs for the V2.4 for Doom Cube with Spider board setup of mine. (Sorry for Apple-esque naming :P)
+- [Doom Micron Electronics Breakout PCBs](./Doomicron): PCBs for wiring between top and bottom electronics chambers of the Micron Doom Cube mod.
 
 ## YouTube
 I am a YouTube content creator, and these projects were designed for my videos. If you want content about these projects & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
