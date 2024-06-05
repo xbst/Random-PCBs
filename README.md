@@ -11,6 +11,7 @@
 - [V2.4 New New PCBs](./New_New_V2_PCBs): New PCBs for the V2.4 for Doom Cube with Spider board setup of mine. (Sorry for Apple-esque naming :P)
 - [Doom Micron Electronics Breakout PCBs](./Doomicron): PCBs for wiring between top and bottom electronics chambers of the Micron Doom Cube mod.
 - [XH Splitter](./XH-Splitter): A simple 4-way 2-pin JST-XH splitter, primarily intended for fans.
+- [5V USB Power Switch](./USB_5V_Switch): A PCB with USB A male and female connectors and a switch in between on the 5V line to cut power to the USB device. Useful foe degugging, resetting, turhning on/off, etc.
 
 ## YouTube
 I am a YouTube content creator, and these projects were designed for my videos. If you want content about these projects & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
