@@ -1,5 +1,5 @@
 # Random-PCBs
-<br>This repo contains some of my older or smaller PCB design projects.
+This repo contains some of my older or smaller PCB design projects.
 ## Projects
 - [ADXL345 MCU](./ADXL345_MCU): A small PCB for easier use of an ADXL345 accelerometer for Klipper's Input Shaping.
 - [PT100 Stepstick Adapter](./PT100-Adapter): Adapter PCB for slotting a MAX31865 module to a stepstick slot.
