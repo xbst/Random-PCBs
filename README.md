@@ -1,6 +1,5 @@
 # Random-PCBs
-<br>This repo is for my PCB design projects. You can find all the files you need to order your own from a PCB manufacturer here.
-<br>
+<br>This repo contains some of my older or smaller PCB design projects.
 ## Projects
 - [ADXL345 MCU](./ADXL345_MCU): A small PCB for easier use of an ADXL345 accelerometer for Klipper's Input Shaping.
 - [PT100 Stepstick Adapter](./PT100-Adapter): Adapter PCB for slotting a MAX31865 module to a stepstick slot.
@@ -12,12 +11,3 @@
 - [Doom Micron Electronics Breakout PCBs](./Doomicron): PCBs for wiring between top and bottom electronics chambers of the Micron Doom Cube mod.
 - [XH Splitter](./XH-Splitter): A simple 4-way 2-pin JST-XH splitter, primarily intended for fans.
 - [5V USB Power Switch](./USB_5V_Switch): A PCB with USB A male and female connectors and a switch in between on the 5V line to cut power to the USB device. Useful foe degugging, resetting, turhning on/off, etc.
-
-## YouTube
-I am a YouTube content creator, and these projects were designed for my videos. If you want content about these projects & more, please consider [subscribing to my YouTube channel](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg).
-<br>
-## License & Selling Your Own
-These projects are licensed with [GPL v3](./LICENSE). This means you are free to make your own, modify, sell, including commercially, and do pretty much whatever you want with the designs. You have to credit the project, and you cannot claim that I endorse that sale. There are a few more details with the license too (like warranty, modifications, etc.), so check the [license](./LICENSE) file for more details. This was my summary of the license, and the actual license file contains the correct information!
-<br>
-## Supporting Development of More PCBs
-This is in no way mandatory but if you wish you can support me on [Patreon](https://www.patreon.com/isikstech) or on [Youtube](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg/join).
